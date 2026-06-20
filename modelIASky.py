@@ -10,6 +10,9 @@ st.title("TP Apprentissage profond")
 st.write("Par FOZEN POKAM Franck Duvane")
 st.write("Matricule: UN21TEL021IY")
 st.write("Application de test des modèles entraînés")
+st.write("Bank Marketing : prédiction de la souscription d'un client à un dépôt à terme, à partir de son profil (modèles Random Forest et ANN).)
+st.write("Fashion MNIST : classification d'une image de vêtement parmi 10 catégories (modèle CNN).")
+
 
 # Chargement des modèles et des encodeurs (mis en cache)
 @st.cache_resource
